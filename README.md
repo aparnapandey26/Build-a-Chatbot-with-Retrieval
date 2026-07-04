@@ -81,6 +81,13 @@ python chatbot.py
 
 ---
 
+## 📷 Output
+
+Example output of the Retrieval Chatbot:
+
+![Chatbot Output](chatbot_output.png)
+
+
 ## 👩‍💻 Author
 
 **Aparna Pandey**
